@@ -4,3 +4,8 @@ export function calculateTax(amount: number, rate: number): number {
   }
   return +(amount + rate).toFixed(2);
 }
+
+/**
+ * Michel DOlores AValos
+ * 6 B bis
+ */
